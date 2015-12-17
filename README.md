@@ -29,7 +29,7 @@ IDE: MonoDevelop
 
 ### Prints ###
 
-   * ![number wizard UI.png](https://bitbucket.org/repo/zbpqMj/images/444851196-number%20wizard%20UI.png)
+   ![number wizard UI.png](https://bitbucket.org/repo/zbpqMj/images/444851196-number%20wizard%20UI.png)
 
 
-   * ![number wizard UI 2.png](https://bitbucket.org/repo/zbpqMj/images/3441064061-number%20wizard%20UI%202.png)
+   ![number wizard UI 2.png](https://bitbucket.org/repo/zbpqMj/images/3441064061-number%20wizard%20UI%202.png)
