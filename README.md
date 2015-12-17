@@ -26,3 +26,10 @@ IDE: MonoDevelop
 ### Youtube ###
 
    * Channel: https://www.youtube.com/channel/UC_rQ1n5XXcx6nqkXCAr2vTg/
+
+### Prints ###
+
+   * ![number wizard UI.png](https://bitbucket.org/repo/zbpqMj/images/444851196-number%20wizard%20UI.png)
+
+
+   * ![number wizard UI 2.png](https://bitbucket.org/repo/zbpqMj/images/3441064061-number%20wizard%20UI%202.png)
