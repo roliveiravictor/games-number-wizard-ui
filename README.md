@@ -2,9 +2,13 @@
 
 Number Wizard UI - A guessing number game.
 
+
 Engine: Unity3D 4.6.9 
+
 Programming Language: C# 
+
 IDE: MonoDevelop
+
 Play: https://dl.dropboxusercontent.com/s/zvylfedw9h2574m/Number%20Wizard%20UI.html - [Unity Web Player Required]
 
 ### What is this repository for? ###
