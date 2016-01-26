@@ -2,7 +2,6 @@
 
 Number Wizard UI - A guessing number game.
 
-
 Engine: Unity3D 4.6.9 
 
 Programming Language: C# 
